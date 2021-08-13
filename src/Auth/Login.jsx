@@ -125,7 +125,7 @@ export const Login = () => {
                  <div className="separator__text">OR</div>
                  <div className="separator__line"></div>
             </div>
-            <button onClick={handleLoginAsGuest} style={{display:"block",width:"100%"}} className="primary-btn">Login as guest</button>
+//             <button onClick={handleLoginAsGuest} style={{display:"block",width:"100%"}} className="primary-btn">Login as guest</button>
         </div>
       </div>
    </div>
