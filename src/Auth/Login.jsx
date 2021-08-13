@@ -83,7 +83,7 @@ export const Login = () => {
 
     const handleLoginAsGuest = () => {
          setSpinner(true)
-         login({email:"asmitshrivastava8@gmail.com",password:"asmit123"})
+         login({email:"baby@gmail.com",password:"Baby@1234"})
     }
   
     return (
